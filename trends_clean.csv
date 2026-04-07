@@ -1,0 +1,95 @@
+post_id,title,category,score,num_comments,author,collected_at
+47649721,Artemis II crew see first glimpse of far side of Moon [video],worldnews,154,108,mooreds,2026-04-05 22:47:33.133296
+47650726,Codex is switching to API pricing based usage for all users,worldnews,66,37,ccmcarey,2026-04-05 22:47:34.157232
+47648828,"Eight years of wanting, three months of building with AI",technology,218,45,brilee,2026-04-05 22:47:35.220053
+47650312,A tail-call interpreter in (nightly) Rust,technology,35,1,g0xA52A2A,2026-04-05 22:47:36.268899
+47647455,"A Claude Code skill that makes Claude talk like a caveman, cutting token use",worldnews,410,243,tosh,2026-04-05 22:47:37.383858
+47650502,Computational Physics (2nd Edition),worldnews,11,1,teleforce,2026-04-05 22:47:38.428866
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,worldnews,28,4,desideratum,2026-04-05 22:47:39.442902
+47649113,Finnish sauna heat exposure induces stronger immune cell than cytokine responses,worldnews,170,92,Growtika,2026-04-05 22:47:40.479203
+47649117,Someone at BrowserStack Is Leaking Users' Email Address,technology,301,80,m_km,2026-04-05 22:47:41.602888
+47612331,Baby's Second Garbage Collector,worldnews,19,2,matheusmoreira,2026-04-05 22:47:42.641236
+47646843,Lisette a little language inspired by Rust that compiles to Go,worldnews,197,100,jspdown,2026-04-05 22:47:43.704645
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,586,411,zaikunzhang,2026-04-05 22:47:44.807953
+47644406,German implementation of eIDAS will require an Apple/Google account to function,worldnews,471,431,DyslexicAtheist,2026-04-05 22:47:46.062577
+47648048,Friendica – A Decentralized Social Network,worldnews,65,29,janandonly,2026-04-05 22:47:47.133276
+47648404,My Google Workspace account suspension,worldnews,221,108,zenincognito,2026-04-05 22:47:49.289663
+47595695,OpenScreen is an open-source alternative to Screen Studio,worldnews,400,68,jskopek,2026-04-05 22:47:50.346334
+47649148,Iguanaworks has closed and our products are no longer sold,worldnews,71,10,ripe,2026-04-05 22:47:51.436091
+47650172,Phone-free bars and restaurants on the rise across the U.S.,worldnews,39,24,Brajeshwar,2026-04-05 22:47:52.594378
+47645432,Introduction to Computer Music (2009) [pdf],worldnews,201,61,luu,2026-04-05 22:47:53.647969
+47613272,Tracing Goroutines in Realtime with eBPF,worldnews,20,4,darccio,2026-04-05 22:47:54.739916
+47646472,Aegis – open-source FPGA silicon,worldnews,89,8,rosscomputerguy,2026-04-05 22:47:55.807923
+47608040,Shared mutable state in Rust (2022),worldnews,28,6,vinhnx,2026-04-05 22:47:56.880256
+47650401,StackOverflow: Retiring the Beta Site,worldnews,28,18,stefankuehnel,2026-04-05 22:47:57.931293
+47607408,Scientists Figured Out How Eels Reproduce (2022),worldnews,74,16,thunderbong,2026-04-05 22:47:59.016154
+47649701,Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI,worldnews,10,2,paperplaneflyr,2026-04-05 22:48:00.112877
+47646504,Show HN: OsintRadar – Curated directory for osint tools,worldnews,52,5,lexalizer,2026-04-05 22:48:01.158039
+47648438,Common drug tests lead to tens of thousands wrongful arrests a year,worldnews,83,52,rawgabbit,2026-04-05 22:48:02.544164
+47649917,"SPF/PC v4 for MS-DOS, FreeDOS, x86",worldnews,18,4,hggh,2026-04-05 22:48:03.660837
+47640728,Show HN: A game where you build a GPU,sports,871,171,Jaso1024,2026-04-05 22:48:04.728075
+47640875,"LLM Wiki – example of an ""idea file""",worldnews,261,77,tamnd,2026-04-05 22:48:05.837438
+47642569,How many products does Microsoft have named 'Copilot'?,worldnews,758,356,gpi,2026-04-05 22:48:08.049617
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,worldnews,470,216,naves,2026-04-05 22:48:09.110644
+47587089,"Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",worldnews,70,11,steeve,2026-04-05 22:48:11.276138
+47598835,Rubysyn: Clarifying Ruby's Syntax and Semantics,worldnews,68,15,petalmind,2026-04-05 22:48:12.329343
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,worldnews,141,21,laszlokorte,2026-04-05 22:48:13.369848
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",worldnews,147,15,kaipereira,2026-04-05 22:48:14.390821
+47644864,"AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",worldnews,369,124,crcastle,2026-04-05 22:48:15.439264
+47613118,Show HN: I built a small app for FSI German Course,worldnews,46,14,syedmsawaid,2026-04-05 22:48:16.511676
+47651034,Why Over-Engineering Happens,worldnews,15,3,zuhayeer,2026-04-05 22:48:17.590144
+47645305,Demonstrating Real Time AV2 Decoding on Consumer Laptops,worldnews,49,14,breve,2026-04-05 22:48:18.686163
+47604887,Electrical transformer manufacturing is throttling the electrified future,worldnews,105,102,toomuchtodo,2026-04-05 22:48:19.749931
+47637757,Embarrassingly simple self-distillation improves code generation,worldnews,626,187,Anon84,2026-04-05 22:48:20.781493
+47648529,Right to repair: Why the US military can't fix much of its own equipment,technology,19,6,scythe,2026-04-05 22:48:21.865143
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,worldnews,1064,811,firloop,2026-04-05 22:48:22.930122
+47650273,"Meta, Google under attack as court cases bypass 30-year-old legal shield",worldnews,8,2,1vuio0pswjnm7,2026-04-05 22:48:24.014569
+47645468,Writing Lisp is AI resistant and I'm sad,technology,78,80,djha-skin,2026-04-05 22:48:25.084071
+47646363,Modern Generic SVGA driver for Windows 3.1,worldnews,67,15,userbinator,2026-04-05 22:48:26.118792
+47646065,What if the browser built the UI for you?,worldnews,39,60,jonnonz,2026-04-05 22:48:27.213261
+47644566,"Advice to young people, the lies I tell myself (2024)",worldnews,142,45,mooreds,2026-04-05 22:48:28.314478
+47631118,Artemis II crew take “spectacular” image of Earth,worldnews,1054,363,andsoitis,2026-04-05 22:48:29.414732
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",worldnews,82,37,waveywaves,2026-04-05 22:48:30.589336
+47646566,"Unverified: What Practitioners Post About OCR, Agents, and Tables",worldnews,21,14,chelm,2026-04-05 22:48:31.651529
+47609117,Ask HN: Is there any interest in a native Qt/C++ Discord client?,worldnews,24,25,txtsd,2026-04-05 22:48:32.745560
+47591367,Breaking Enigma with Index of Coincidence on a Commodore 64,worldnews,44,4,saganus,2026-04-05 22:48:35.078971
+47641141,IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf],worldnews,54,12,hggh,2026-04-05 22:48:36.092918
+47590230,Costco sued for seeking refunds on tariffs customers paid,technology,80,74,AdmiralAsshat,2026-04-05 22:48:37.148630
+47650022,Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses,technology,26,11,ChrisArchitect,2026-04-05 22:48:38.481356
+47646871,Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media,worldnews,19,4,glovink,2026-04-05 22:48:39.536957
+47648226,SpaceX and OpenAI: The Mega IPO Grift [video],technology,16,6,throw0101c,2026-04-05 22:48:40.586554
+47650089,EPA official in charge of methane regulations was an oil and gas lobbyist,worldnews,49,7,Jimmc414,2026-04-05 22:48:41.652853
+47638810,Components of a Coding Agent,worldnews,273,84,MindGods,2026-04-05 22:48:42.717195
+47616361,Google releases Gemma 4 open models,worldnews,1789,469,jeffmcjunkin,2026-04-05 22:48:43.816711
+47644808,The machines are fine. I'm worried about us,worldnews,32,3,Plasmoid,2026-04-05 22:48:44.852979
+47649811,"Japanese, French and Omani Vessels Cross Strait of Hormuz",technology,99,113,vrganj,2026-04-05 22:48:45.934991
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",worldnews,173,86,jrandolf,2026-04-05 22:48:48.141776
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,worldnews,405,256,eichin,2026-04-05 22:48:49.227936
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,18,3,andsoitis,2026-04-05 22:48:50.287117
+47636435,Emotion concepts and their function in a large language model,worldnews,180,181,dnw,2026-04-05 22:48:51.349459
+47650569,"Microsoft terms say Copilot is for entertainment purposes only, not serious use",technology,43,5,jatins,2026-04-05 22:48:52.387911
+47610593,Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559),technology,5,1,benbreen,2026-04-05 22:48:53.418196
+47611993,VR Realizes the Cyberspace Metaphor,worldnews,15,15,dryadin,2026-04-05 22:48:54.532021
+47639291,The Indie Internet Index – submit your favorite sites,worldnews,180,32,freshman_dev,2026-04-05 22:48:55.611650
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,212,138,pseudolus,2026-04-05 22:48:56.626547
+47614532,Ruckus: Racket for iOS,worldnews,151,15,nsm,2026-04-05 22:48:57.701666
+47637287,Some Unusual Trees,worldnews,282,85,simplegeek,2026-04-05 22:48:58.742200
+47639524,"Author of ""Careless People"" banned from saying anything negative about Meta",worldnews,824,532,macleginn,2026-04-05 22:48:59.748383
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,58,34,1659447091,2026-04-05 22:49:00.783576
+47641255,Plague Ships (2020),worldnews,49,10,bryanrasmussen,2026-04-05 22:49:01.847366
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,technology,175,152,lschueller,2026-04-05 22:49:02.897110
+47628608,OpenClaw privilege escalation vulnerability,worldnews,509,251,kykeonaut,2026-04-05 22:49:03.959152
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,worldnews,1257,635,axelriet,2026-04-05 22:49:05.050474
+47645235,Brain scans reveal how to enters a psychedelic-like trance without drugs,technology,70,23,ingenika,2026-04-05 22:49:06.189107
+47625952,Show HN: I built a frontpage for personal blogs,worldnews,764,192,ramkarthikk,2026-04-05 22:49:07.503504
+47629433,iNaturalist,worldnews,523,133,bookofjoe,2026-04-05 22:49:08.586022
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,worldnews,157,6,teamchong,2026-04-05 22:49:09.619935
+47621792,Post Mortem: axios NPM supply chain compromise,technology,283,137,JeanMeche,2026-04-05 22:49:11.781986
+47638075,"The CMS is dead, long live the CMS",worldnews,147,93,taubek,2026-04-05 22:49:12.815926
+47648745,Large language models are not the problem,worldnews,6,1,sega_sai,2026-04-05 22:49:13.838435
+47641464,Scientists observe an immune signaling complex forming inside cells,worldnews,112,7,ohjeez,2026-04-05 22:49:14.857540
+47648452,Ubuntu now requires more RAM than Windows 11,worldnews,131,151,jnord,2026-04-05 22:49:15.911462
+47629903,Why are we still using Markdown?,worldnews,217,283,veqq,2026-04-05 22:49:17.022850
+47629382,Getting Claude to QA its own work,worldnews,20,1,suchintan,2026-04-05 22:49:19.301977
+47633116,The house is a work of art: Frank Lloyd Wright,worldnews,111,64,midnightfish,2026-04-05 22:49:20.420314
+47633157,Fake Fans,worldnews,154,61,performative,2026-04-05 22:49:21.477872
